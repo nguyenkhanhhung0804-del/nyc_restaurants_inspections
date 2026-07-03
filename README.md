@@ -42,4 +42,4 @@ nyc-restaurant-inspections-analysis/
 
 ## Author
 
-Nguyen Khanh Hung
+Hung Khanh Nguyen
