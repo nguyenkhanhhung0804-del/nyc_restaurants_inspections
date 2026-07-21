@@ -11,16 +11,15 @@ The project analyzes the **NYC Restaurant Inspections** database, which stores i
 The database consists of several related tables containing:
 
 1. **Restaurant Information**
+  * Includes restaurant names, boroughs, ZIP codes, cuisine descriptions, and establishment identifiers.
 
-   * Includes restaurant names, boroughs, ZIP codes, cuisine descriptions, and establishment identifiers.
 2. **Inspection Records**
+  * Contains inspection dates, inspection types, inspection scores, and letter grades (A, B, C).
 
-   * Contains inspection dates, inspection types, inspection scores, and letter grades (A, B, C).
 3. **Violation Information**
+  * Stores violation codes, violation descriptions, and critical/non-critical violation indicators.
 
-   * Stores violation codes, violation descriptions, and critical/non-critical violation indicators.
-
-Together, these tables provide a comprehensive view of restaurant performance, inspection history, and food safety compliance across New York City.
+Together, these datasets provide a comprehensive view of restaurant performance, inspection history, and food safety compliance across New York City.
 
 ---
 
